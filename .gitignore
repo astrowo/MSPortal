@@ -361,6 +361,9 @@ src/Marketplace.SaaS.Accelerator.CustomerSite/appsettings.Development.json
 
 .vscode/launch.json
 .vscode/tasks.json
+
+# Custom ignore
 /src/AdminSite/appsettings.Development.json
 /src/AdminSite/Properties/ServiceDependencies/msportal-admin - Web Deploy/profile.arm.json
+/src/CustomerSite/appsettings.Development.json
 /src/CustomerSite/Properties/ServiceDependencies/msportal-portal - Web Deploy/profile.arm.json
