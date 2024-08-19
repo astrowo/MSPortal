@@ -361,3 +361,5 @@ src/Marketplace.SaaS.Accelerator.CustomerSite/appsettings.Development.json
 
 .vscode/launch.json
 .vscode/tasks.json
+/src/AdminSite/appsettings.Development.json
+/src/AdminSite/Properties/ServiceDependencies/msportal-admin - Web Deploy/profile.arm.json
